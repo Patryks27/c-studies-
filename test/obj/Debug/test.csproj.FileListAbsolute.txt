@@ -1,2 +1,0 @@
-D:\studia\Programowanie\do_kolokwium\tik_tok\test\obj\Debug\test.csprojAssemblyReference.cache
-D:\studia\Programowanie\do_kolokwium\tik_tok\test\obj\Debug\test.csproj.CoreCompileInputs.cache
