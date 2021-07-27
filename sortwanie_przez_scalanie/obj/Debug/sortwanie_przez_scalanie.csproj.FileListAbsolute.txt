@@ -1,0 +1,7 @@
+D:\studia\Programowanie\do_kolokwium\tik_tok\sortwanie_przez_scalanie\bin\Debug\sortwanie_przez_scalanie.exe.config
+D:\studia\Programowanie\do_kolokwium\tik_tok\sortwanie_przez_scalanie\bin\Debug\sortwanie_przez_scalanie.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\sortwanie_przez_scalanie\bin\Debug\sortwanie_przez_scalanie.pdb
+D:\studia\Programowanie\do_kolokwium\tik_tok\sortwanie_przez_scalanie\obj\Debug\sortwanie_przez_scalanie.csprojAssemblyReference.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\sortwanie_przez_scalanie\obj\Debug\sortwanie_przez_scalanie.csproj.CoreCompileInputs.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\sortwanie_przez_scalanie\obj\Debug\sortwanie_przez_scalanie.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\sortwanie_przez_scalanie\obj\Debug\sortwanie_przez_scalanie.pdb
