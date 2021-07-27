@@ -1,0 +1,7 @@
+D:\studia\Programowanie\do_kolokwium\tik_tok\do_kol_01\bin\Debug\do_kol_01.exe.config
+D:\studia\Programowanie\do_kolokwium\tik_tok\do_kol_01\bin\Debug\do_kol_01.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\do_kol_01\bin\Debug\do_kol_01.pdb
+D:\studia\Programowanie\do_kolokwium\tik_tok\do_kol_01\obj\Debug\do_kol_01.csprojAssemblyReference.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\do_kol_01\obj\Debug\do_kol_01.csproj.CoreCompileInputs.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\do_kol_01\obj\Debug\do_kol_01.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\do_kol_01\obj\Debug\do_kol_01.pdb

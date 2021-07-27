@@ -1,0 +1,7 @@
+D:\studia\Programowanie\do_kolokwium\tik_tok\przywódca_dziel_i_zwyicezaj\bin\Debug\przywódca_dziel_i_zwyicezaj.exe.config
+D:\studia\Programowanie\do_kolokwium\tik_tok\przywódca_dziel_i_zwyicezaj\bin\Debug\przywódca_dziel_i_zwyicezaj.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\przywódca_dziel_i_zwyicezaj\bin\Debug\przywódca_dziel_i_zwyicezaj.pdb
+D:\studia\Programowanie\do_kolokwium\tik_tok\przywódca_dziel_i_zwyicezaj\obj\Debug\przywódca_dziel_i_zwyicezaj.csprojAssemblyReference.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\przywódca_dziel_i_zwyicezaj\obj\Debug\przywódca_dziel_i_zwyicezaj.csproj.CoreCompileInputs.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\przywódca_dziel_i_zwyicezaj\obj\Debug\przywódca_dziel_i_zwyicezaj.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\przywódca_dziel_i_zwyicezaj\obj\Debug\przywódca_dziel_i_zwyicezaj.pdb

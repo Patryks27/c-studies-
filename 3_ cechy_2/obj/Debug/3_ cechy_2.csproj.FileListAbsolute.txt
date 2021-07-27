@@ -1,0 +1,7 @@
+D:\studia\Programowanie\do_kolokwium\tik_tok\3_ cechy_2\bin\Debug\3_ cechy_2.exe.config
+D:\studia\Programowanie\do_kolokwium\tik_tok\3_ cechy_2\bin\Debug\3_ cechy_2.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\3_ cechy_2\bin\Debug\3_ cechy_2.pdb
+D:\studia\Programowanie\do_kolokwium\tik_tok\3_ cechy_2\obj\Debug\3_ cechy_2.csprojAssemblyReference.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\3_ cechy_2\obj\Debug\3_ cechy_2.csproj.CoreCompileInputs.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\3_ cechy_2\obj\Debug\3_ cechy_2.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\3_ cechy_2\obj\Debug\3_ cechy_2.pdb

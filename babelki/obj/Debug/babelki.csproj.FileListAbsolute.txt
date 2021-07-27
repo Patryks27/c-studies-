@@ -1,0 +1,6 @@
+D:\studia\Programowanie\do_kolokwium\tik_tok\babelki\bin\Debug\babelki.exe.config
+D:\studia\Programowanie\do_kolokwium\tik_tok\babelki\bin\Debug\babelki.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\babelki\bin\Debug\babelki.pdb
+D:\studia\Programowanie\do_kolokwium\tik_tok\babelki\obj\Debug\babelki.csproj.CoreCompileInputs.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\babelki\obj\Debug\babelki.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\babelki\obj\Debug\babelki.pdb

@@ -1,0 +1,7 @@
+D:\studia\Programowanie\do_kolokwium\tik_tok\podciąg_dynamicznie\bin\Debug\podciąg_dynamicznie.exe.config
+D:\studia\Programowanie\do_kolokwium\tik_tok\podciąg_dynamicznie\bin\Debug\podciąg_dynamicznie.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\podciąg_dynamicznie\bin\Debug\podciąg_dynamicznie.pdb
+D:\studia\Programowanie\do_kolokwium\tik_tok\podciąg_dynamicznie\obj\Debug\podciąg_dynamicznie.csprojAssemblyReference.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\podciąg_dynamicznie\obj\Debug\podciąg_dynamicznie.csproj.CoreCompileInputs.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\podciąg_dynamicznie\obj\Debug\podciąg_dynamicznie.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\podciąg_dynamicznie\obj\Debug\podciąg_dynamicznie.pdb

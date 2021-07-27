@@ -1,0 +1,7 @@
+D:\studia\Programowanie\do_kolokwium\tik_tok\Sortowanie_szybkie\bin\Debug\Sortowanie_szybkie.exe.config
+D:\studia\Programowanie\do_kolokwium\tik_tok\Sortowanie_szybkie\bin\Debug\Sortowanie_szybkie.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\Sortowanie_szybkie\bin\Debug\Sortowanie_szybkie.pdb
+D:\studia\Programowanie\do_kolokwium\tik_tok\Sortowanie_szybkie\obj\Debug\Sortowanie_szybkie.csprojAssemblyReference.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\Sortowanie_szybkie\obj\Debug\Sortowanie_szybkie.csproj.CoreCompileInputs.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\Sortowanie_szybkie\obj\Debug\Sortowanie_szybkie.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\Sortowanie_szybkie\obj\Debug\Sortowanie_szybkie.pdb

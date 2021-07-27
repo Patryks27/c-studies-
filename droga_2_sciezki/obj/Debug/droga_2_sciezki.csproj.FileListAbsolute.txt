@@ -1,0 +1,6 @@
+D:\studia\Programowanie\do_kolokwium\tik_tok\droga_2_sciezki\bin\Debug\droga_2_sciezki.exe.config
+D:\studia\Programowanie\do_kolokwium\tik_tok\droga_2_sciezki\bin\Debug\droga_2_sciezki.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\droga_2_sciezki\bin\Debug\droga_2_sciezki.pdb
+D:\studia\Programowanie\do_kolokwium\tik_tok\droga_2_sciezki\obj\Debug\droga_2_sciezki.csproj.CoreCompileInputs.cache
+D:\studia\Programowanie\do_kolokwium\tik_tok\droga_2_sciezki\obj\Debug\droga_2_sciezki.exe
+D:\studia\Programowanie\do_kolokwium\tik_tok\droga_2_sciezki\obj\Debug\droga_2_sciezki.pdb
